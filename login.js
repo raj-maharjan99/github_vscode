@@ -1,4 +1,4 @@
-<div>
-  <input type="text" id="username" placeholder="Username" />
-  <input type="password" id="password" placeholder="Password" />
-</div>;
+const name = "Raj";
+const lastName = "Maharjan";
+const fullName = `${name}  ${lastName}`;
+console.log(fullName);
