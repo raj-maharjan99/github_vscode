@@ -1,4 +1,1 @@
-const name = "Raj";
-const lastName = "Maharjan";
-const fullName = `${name}  ${lastName}`;
-console.log(fullName);
+const student = [{ id: 1, name: "Raj" }];
